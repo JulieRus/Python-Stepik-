@@ -1,5 +1,21 @@
 Полезные ссылки
 
+Cсылка для скачивания пакета Miniconda: http://conda.pydata.org/miniconda.html 
+
+Установка IPython (для Windows):
+https://stepic.org/media/attachments/course67/ipython_install.cmd
+
+Установка IPython (для OS X и Linux):
+https://stepic.org/media/attachments/course67/ipython_install.sh
+
+Команды для запуска:
+conda update conda --yes
+conda install ipython --yes
+conda install ipython-notebook --yes
+conda install pyzmq --yes
+conda install jinja2 --yes
+conda install tornado --yes
+
 Официальный сайт Python, где можно скачать интерпретатор (Python 3): https://www.python.org/
 
 Официальная документация по Python: https://docs.python.org/3/
@@ -16,3 +32,5 @@ https://www.jetbrains.com/pycharm/
 
 Книга A Byte of Python: http://www.swaroopch.com/notes/python/
 и ее перевод на русский: http://wombat.org.ua/AByteOfPython/
+
+
