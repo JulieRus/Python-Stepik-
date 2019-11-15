@@ -12,7 +12,7 @@ Sample Input:
 Sample Output:
 450
 
-Ответ: X = int(input())
+Ответ:X = int(input())
 Y = int(input())
 print(X*60 + Y)
 
